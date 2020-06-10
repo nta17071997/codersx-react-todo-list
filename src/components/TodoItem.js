@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import correct from "./images/correct.svg";
-import success from "./images/success.svg";
+import correct from "../images/correct.svg";
+import success from "../images/success.svg";
 
 class TodoItem extends Component {
   render() {
